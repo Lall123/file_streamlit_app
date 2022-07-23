@@ -1,4 +1,4 @@
-Import Streamlit
+import Streamlit
 
 Streamlit.title('dexter and Max are playing')
 Streamlit.text('emojis not found  🍠')
